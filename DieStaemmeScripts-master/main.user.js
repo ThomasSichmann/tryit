@@ -10,8 +10,8 @@
 // @match        https://*.die-staemme.de/game.php?*
 // @match        https://*ds-ultimate.de/tools/attackPlanner/*
 // @icon         https://pbs.twimg.com/profile_images/1456997417807716357/oX-R0v9l_400x400.png
-// @updateURL    https://raw.githubusercontent.com/EmoteBot6/DieStaemmeScripts/master/main.user.js
-// @downloadURL  https://raw.githubusercontent.com/EmoteBot6/DieStaemmeScripts/master/main.user.js
+// @updateURL    https://raw.githubusercontent.com/ThomasSichmann/tryit/master/main.user.js
+// @downloadURL  https://raw.githubusercontent.com/ThomasSichmann/tryit/master/main.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM.setValue
 // @grant        GM.getValue
